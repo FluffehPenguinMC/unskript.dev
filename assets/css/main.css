@@ -1,5 +1,6 @@
 @import url(fontawesome-all.min.css);
 @import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro:300,300italic,400,400italic");
+@import url(custom.css);
 
 /*
 	Multiverse by HTML5 UP
@@ -212,11 +213,11 @@ input, select, textarea {
 		-webkit-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		-ms-transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
 		transition: color 0.2s ease-in-out, border-bottom-color 0.2s ease-in-out;
-		border-bottom: dotted 1px;
+		/* border-bottom: dotted 1px; */
 		color: #34a58e;
 		text-decoration: none;
 	}
-
+z
 		a:hover {
 			border-bottom-color: transparent;
 			color: #34a58e !important;
@@ -241,7 +242,6 @@ input, select, textarea {
 		letter-spacing: 0.1em;
 		line-height: 1.5;
 		margin: 0 0 1em 0;
-		text-transform: uppercase;
 	}
 
 		h1 a, h2 a, h3 a, h4 a, h5 a, h6 a {
@@ -391,7 +391,6 @@ input, select, textarea {
 		padding: 0 2.5em;
 		text-align: center;
 		text-decoration: none;
-		text-transform: uppercase;
 		white-space: nowrap;
 	}
 
@@ -1533,7 +1532,6 @@ input, select, textarea {
 						display: inline-block;
 						letter-spacing: 0.1em;
 						padding: 0 1.65em;
-						text-transform: uppercase;
 					}
 
 						#header nav > ul > li a.icon:before {
@@ -1543,7 +1541,7 @@ input, select, textarea {
 						}
 
 						#header nav > ul > li a:hover {
-							color: #ffffff !important;
+							color: #ffffff;
 						}
 
 						#header nav > ul > li a.active {
