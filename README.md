@@ -18,9 +18,9 @@ TNT Spleef | FluffehPenguin & ThatOneSponk | In Progress
 Credits:
 ```
 	Icons:
-		Font Awesome (fontawesome.io)
+    Font Awesome (fontawesome.io)
     
-    Other:
-    	Minehut (https://minehut.com/)
+  Other:
+    Minehut (https://minehut.com/)
 ```
 
