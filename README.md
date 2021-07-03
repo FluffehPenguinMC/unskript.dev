@@ -17,7 +17,7 @@ TNT Spleef | FluffehPenguin & ThatOneSponk | In Progress
 
 Credits:
 ```
-	Icons:
+  Icons:
     Font Awesome (fontawesome.io)
     
   Other:
