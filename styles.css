@@ -181,6 +181,10 @@ body::-webkit-scrollbar-thumb {
       transform: translate(0, 32px);
       flex-direction: row;
     }
+
+    .text-block {
+      display: none;
+    }
   }
   
   /* Large screens */
