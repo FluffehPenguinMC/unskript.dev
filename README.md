@@ -11,7 +11,7 @@ We are **[Unskript](https://minehut.com/market/creator/unskript)**, a small grou
 Projects | Developer(s) | Status
 ------------ | ------------- | -------------
 [TNT WARS](https://minehut.com/market/product/tnt-wars) | FluffehPenguin | Released
-Sky Tron | FluffehPenguin & ThatOneSponk | In Progress 
+Sky Tron | FluffehPenguin & ThatOneSponk | Released
 TNT Spleef | FluffehPenguin & ThatOneSponk | In Progress 
 
 
